@@ -1,0 +1,7 @@
+There is some text in this file.
+It is just a simple text file, but
+it can be used for testing purposes.
+You can read this file, write to it, or
+do anything you want with it.
+Feel free to use it as you see fit.
+This is the end of the file.
